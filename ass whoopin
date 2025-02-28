@@ -595,7 +595,7 @@ local function createGui()
     local msgCoroutine = coroutine.create(function()
         while true do
             local messageInstance = Instance.new("Message", workspace)
-            messageInstance.Text = "ITS THE HACKING DAY OF YAAZ AKA SOLZ"
+            messageInstance.Text = "ITS THE FUCKING HACKING DAY OF YAAZ AKA SOLZ"
             task.wait(0.4) 
             messageInstance:Destroy()
             task.wait(0.4)
@@ -660,7 +660,7 @@ local function createGui()
 
     -- Warning Message
     local h = Instance.new("Hint", workspace)
-    h.Text = "GET HACKED LOSERS!!! YAAZ HAZ HAX!"
+    h.Text = "GET TOADROAST YOU FUCKING SKID! YAAZ IZ HAXXING RN!1!11!"
     task.wait(999999999999999)
     h:Destroy()
 end)
